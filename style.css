@@ -1,0 +1,33 @@
+/* Styling for HTML elements */
+body {
+	background-color: lightgray;
+}
+
+.img {
+  	float: left;
+	padding-left: 15px;
+}
+
+.row {
+	padding: 10px 30px 5px;
+}
+
+.desc-image {
+	width: 60%;
+	height: 60%;
+}
+
+.desc-content {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 5px;
+	background-color: white;
+}
+
+  .content {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 5px;
+	color: black;
+	background-color: white;
+}
